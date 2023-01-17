@@ -1,0 +1,8 @@
+PUT  http://localhost:8080/api/users/63c6f8ede0d9fd4ad52152eb
+Content-Type: application/json
+
+{
+	"name": "Leo Messi Campeón del Mundo",
+	"age": 36,
+	"email": "leomessi@gmail.com"
+}
